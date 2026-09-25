@@ -4,7 +4,7 @@ A simple Laravel-based task management system.
 
 **Project Code:** WST21-PM-2026-SF  
 **Student Name:** Sibay Jerris Quinn Benemerito  
-**Course & Year:** BSIT – 1st Year  
+**Course & Year:** BSIT – 2ND Year  
 **Database Used:** MySQL  
 
 **Features:**
